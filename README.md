@@ -11,12 +11,13 @@ conda install -c conda-forge tweepy<br/>
 conda install -c conda-forge/label/cf201901 tweepy <br/> 
 
 ### References:
-https://github.com/nanakoohashi/Wrangle-analyze-twitter-posts
-https://github.com/DanaCody/Wrangling-Doggo-Data/blob/master/wrangle_report.pdf
-https://github.com/MrGeislinger/UdacityDAND_Proj_WrangleAndAnalyzeData/blob/master/act_report.pdf
-http://lindsaymoir.com/wp-content/uploads/2018/06/wrangle_act-1.html
-https://www.geeksforgeeks.org/python-pandas-series-str-count/
-https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.drop.html
+
+-https://github.com/nanakoohashi/Wrangle-analyze-twitter-posts<br/> 
+-https://github.com/DanaCody/Wrangling-Doggo-Data/blob/master/wrangle_report.pdf<br/> 
+-https://github.com/MrGeislinger/UdacityDAND_Proj_WrangleAndAnalyzeData/blob/master/act_report.pdf<br/> 
+-http://lindsaymoir.com/wp-content/uploads/2018/06/wrangle_act-1.html<br/> 
+-https://www.geeksforgeeks.org/python-pandas-series-str-count/<br/> 
+-https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.drop.html<br/> 
 
 
 ### License
