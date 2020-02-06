@@ -12,7 +12,7 @@ conda install -c conda-forge/label/cf201901 tweepy <br/>
 
 
 ### License
-MIT License
+MIT License<br/> 
 Copyright (c) 2010-2019 Google, Inc. 
 
 
