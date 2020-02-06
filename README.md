@@ -10,7 +10,6 @@ Windows and Anaconda (run one of the following):<br/>
 conda install -c conda-forge tweepy<br/> 
 conda install -c conda-forge/label/cf201901 tweepy <br/> 
 
-Karina Condeixa – karina.condeixa@gmail.com
 
 ### License
 MIT License
