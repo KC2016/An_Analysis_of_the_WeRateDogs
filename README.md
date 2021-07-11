@@ -17,10 +17,12 @@ Twittes indicate the most common dogs.
 
 ### The most popular dog breeds
 Retwittes are features for popularity.
+
 <img src = "images/popular_breeds.png" align="middle" width=600>  <br/>
 
 ### The winner: Labrador Retriever
 Labrador is the nost popular breed.
+
 <img src = "images/labrador.png" align="middle" width=600>  <br/>
 
 ### Cuteness
