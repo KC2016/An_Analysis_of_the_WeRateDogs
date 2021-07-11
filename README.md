@@ -13,15 +13,15 @@ conda install -c conda-forge/label/cf201901 tweepy <br/>
 ### The most common dog breeds
 Twittes indicate the most common dogs.
 
-<img src = "images/common_breeds.png" align="left" width=600>  <br/>
+<img src = "images/common_breeds.png" align="middle" width=600>  <br/>
 
 ### The most popular dog breeds
 Retwittes are features for popularity.
-<img src = "images/popular_breeds.png" align="left" width=600>  <br/>
+<img src = "images/popular_breeds.png" align="middle" width=600>  <br/>
 
 ### The winner: Labrador Retriever
 Labrador is the nost popular breed.
-<img src = "images/labrador.png" align="left" width=600>  <br/>
+<img src = "images/labrador.png" align="middle" width=600>  <br/>
 
 ### Cuteness
 Doggo & Puppo were found as the most cute type of dogs.
