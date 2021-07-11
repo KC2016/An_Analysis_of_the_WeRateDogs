@@ -25,7 +25,7 @@ Labrador is the nost popular breed.
 ### Cuteness
 Doggo & Puppo were found as the most cute type of dogs.
 
-But, what Doggo & Puppo mean?
+**But, what do Doggo & Puppo mean?** :thinking:
 
 video: https://www.youtube.com/embed/ah6fmNEtXFI
 
