@@ -33,6 +33,10 @@ Doggo & Puppo were found as the most cute type of dogs.
 video: https://www.youtube.com/embed/ah6fmNEtXFI
 
 
+**Take a look at the [final report](https://github.com/KC2016/An_Analysis_of_the_WeRateDogs/blob/master/act_report.pdf)**
+
+
+
 ### References:
 
 -https://github.com/nanakoohashi/Wrangle-analyze-twitter-posts<br/>
